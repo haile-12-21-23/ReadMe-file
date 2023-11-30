@@ -1,9 +1,9 @@
 ## Terms & Conditions
 
-# Community Guidelines
+- [x]  **Community Guidelines** \
 Gojo Dating App is a platform where meaningful connections can flourish. We believe that every swipe has the potential to lead to exciting possibilities. Our goal is to create a fun, safe, and inclusive space where individuals can be themselves while getting to know others. These Community Guidelines are here to set expectations for everyone's behavior, ensuring a positive experience for all users on our app. Failure to adhere to these guidelines may result in consequences, ranging from warnings to account suspension.
 
-# Respect Boundaries
+- [x] ** Respect Boundaries** \
 Respect Boundaries: Everyone's comfort levels vary, so we prohibit nudity, sexual content, and explicit sexual desires on public profiles. In private conversations, such content is allowed only if all parties consent. Consent is essential.
 
 # No Violent Content
