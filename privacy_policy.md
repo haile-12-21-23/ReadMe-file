@@ -2,7 +2,7 @@
 
 ## Safety and Privacy Policy
 
- - [x] ## **Our Commitment**
+ - [x]  **Our Commitment** <br />
   As a new dating app, Gojo Dating App places the highest priority on the safety, security, and well-being of our users. We are committed to fostering a respectful and safe environment for individuals looking to connect with others. Our goal is to build a positive user experience, and we are dedicated to learning, improving, and implementing safety measures as we grow and expand.
 
 - [x] **Safety Measures**
