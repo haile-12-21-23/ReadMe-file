@@ -26,6 +26,6 @@
 - [x] **Continuous Improvement** \
   As a new app, we understand that continuous improvement is vital for providing a safe and enjoyable experience. We are open to feedback from our users and will actively work to refine and enhance our safety measures as we grow and expand our user base.
 
-  We may be new, but our dedication to user safety and privacy is unwavering. We aspire to create a positive and secure environment where individuals can connect and build meaningful relationships. As we progress, we will continue to invest in safety efforts to make Gojo Dating App a trusted platform for meeting new people.
+ - [x]  We may be new, but our dedication to user safety and privacy is unwavering. We aspire to create a positive and secure environment where individuals can connect and build meaningful relationships. As we progress, we will continue to invest in safety efforts to make Gojo Dating App a trusted platform for meeting new people.
 
   © 2023 FetaTech LLC. All rights reserved.
