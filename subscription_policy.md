@@ -1,6 +1,6 @@
 Google Play Subscription Policy
 
-1. Subscription Details:
+1. Subscription Details:\
 Gojo has three subscriptions. These are Siliver, Gold and Platinum level. 
 1.1. Description: Each subscription level has three duration one month, six months and one year.
 
