@@ -41,7 +41,7 @@ User Support:
 
 5.1. Contact Information:
 
-Users can contact Gojo's support team for assistance by visiting our help center at https://gojodating.com/help. (https://gojodating.com/help)
+Users can contact Gojo's support team for assistance by visiting our help center at https://gojodating.com/help. 
 5.2. Response Time:
 
 Gojo is committed to providing timely support, and we aim to respond to user requests within 24 hours of receiving them.
