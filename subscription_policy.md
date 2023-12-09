@@ -1,54 +1,33 @@
 Google Play Subscription Policy
 
-Last Updated: [Date]
-
 1. Subscription Details:
+Gojo has three subscriptions. These are Siliver, Gold and Platinum level. 
+1.1 Description: Each subscription level has three duration one month, six months and one year.
 
-1.1 Description: [Brief description of your subscription service]
-
-1.2 Pricing: [Clearly state the pricing details, including any trial periods, discounts, or promotional offers]
+1.2 Pricing: Silver has 9.99 USD for one month, 39.99 USD for six months and 69.99 USD for one year.
+Gold has 19.99 USD for one month, 79.99 USD for six months and 139.99 USD for one year.
+Platinum has 29.99 USD for one month, 119.99 USD for six months and 209.99 USD for one year.
 
 2. Payment and Billing:
 
-2.1 Payment Methods: [List accepted payment methods]
+2.1 Payment Methods: Gojo will integrated two payment methods. These are google pay and apple pay.
 
-2.2 Billing Cycle: [Specify the billing cycle - monthly, annually, etc.]
+2.2 Billing Cycle: Gojo billing has three cyles:- monthly, biyearly and annually.
 
 3. Cancellation and Refunds:
 
-3.1 Cancellation Process: [Describe how users can cancel their subscription]
+3.1 Cancellation Process: Users can cancle any time as far they want to cancle.
 
-3.2 Refund Policy: [Explain your policy regarding refunds, if applicable]
+3.2 Refund Policy:Gojo will refund to back used make subscription by mistake.
 
 4. Changes to Subscription:
 
-4.1 Price Changes: [Specify how and when users will be informed of price changes]
+4.1 Price Changes: Users can change their subscrition any time when they want.
 
-4.2 Service Changes: [Explain how users will be notified of any changes to the subscription service]
+4.2 Service Changes: Gojo make announcements for all user when we release new version and updates.
 
 5. User Support:
 
-5.1 Contact Information: [Provide contact details for user support and inquiries]
+5.1 Contact Information: Gojo can provide support contact using https://gojodating.com/help
 
-5.2 Response Time: [Specify the expected response time for user inquiries]
-
-6. Privacy and Data:
-
-6.1 Data Collection: [Detail how user data is collected, stored, and used]
-
-6.2 Privacy Policy: [Link to your privacy policy for further information]
-
-7. Termination:
-
-7.1 Termination by User: [Explain the process for users who wish to terminate their subscription]
-
-7.2 Termination by the Service: [Outline circumstances under which the service may terminate a subscription]
-
-8. Governing Law:
-
-8.1 Jurisdiction: [Specify the jurisdiction governing the subscription agreement]
-
-9. Changes to the Subscription Policy:
-
-9.1 Updates: [State how users will be notified of any changes to the subscription policy]
-
+5.2 Response Time: Gojo will give response less than 24 hours to the user requests.
