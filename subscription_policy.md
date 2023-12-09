@@ -1,5 +1,4 @@
-Google Play Subscription Policy
-
+Privacy and Subscription Policy for Gojo Dating
 1. Subscription Details
 
 Gojo has three subscriptions. These are Siliver, Gold and Platinum level. 
