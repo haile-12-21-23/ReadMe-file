@@ -8,26 +8,25 @@ Gojo has three subscriptions. These are Siliver, Gold and Platinum level.
 Gold has 19.99 USD for one month, 79.99 USD for six months and 139.99 USD for one year.
 Platinum has 29.99 USD for one month, 119.99 USD for six months and 209.99 USD for one year.
 
-2. Payment and Billing:
-
-2.1 Payment Methods: Gojo will integrated two payment methods. These are google pay and apple pay.
-
-2.2 Billing Cycle: Gojo billing has three cyles:- monthly, biyearly and annually.
-
-3. Cancellation and Refunds:
-
-3.1 Cancellation Process: Users can cancle any time as far they want to cancle.
-
-3.2 Refund Policy:Gojo will refund to back used make subscription by mistake.
-
-4. Changes to Subscription:
-
-4.1 Price Changes: Users can change their subscrition any time when they want.
-
-4.2 Service Changes: Gojo make announcements for all user when we release new version and updates.
-
+Payment and Billing:
+2.1 Payment Methods:
+Gojo integrates two payment methods, Apple Pay and Google Pay, to facilitate subscriptions. Users can manage and cancel their subscriptions directly through Apple Pay and Google Pay.
+2.2 Billing Cycle:
+Gojo offers three billing cycles: monthly, biyearly, and annually, allowing users to choose the subscription plan that suits their preferences.
+Cancellation and Refunds:
+3.1 Cancellation Process:
+Users can cancel their subscriptions at any time by accessing their Apple Pay or Google Pay accounts and following the cancellation process provided by these platforms.
+3.2 Refund Policy:
+Gojo will refund accidental subscription payments made by users if they reach out to us within a reasonable time frame.
+Changes to Subscription:
+4.1 Price Changes:
+Users have the flexibility to change their subscription plan at any time to align with their needs.
+4.2 Service Changes:
+Gojo will inform all users about new versions, updates, and important announcements via in-app notifications and announcements on our platform.
+User Support:
 5. User Support:
 
-5.1 Contact Information: Gojo can provide support contact using https://gojodating.com/help
-
-5.2 Response Time: Gojo will give response less than 24 hours to the user requests.
+5.1 Contact Information:
+Users can contact Gojo's support team for assistance by visiting our help center at https://gojodating.com/help. (https://gojodating.com/help)
+5.2 Response Time:
+Gojo is committed to providing timely support, and we aim to respond to user requests within 24 hours of receiving them.
