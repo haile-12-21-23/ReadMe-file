@@ -53,4 +53,4 @@ We take our Community Guidelines seriously and will take appropriate actions to 
 
 - [x] We reserve the right to investigate and/or terminate accounts without a refund if users misuse the app, behave inappropriately, or violate our Community Guidelines or Terms of Use, even if the actions occur outside the app but involve others met through the service.
 
-Copyright © {{YEAR}} FetaTech LLC. All rights reserved.
+© 2024 FetaTech LLC. All rights reserved.
