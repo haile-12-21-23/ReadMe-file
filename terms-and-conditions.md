@@ -3,6 +3,12 @@
 - [x]  **Community Guidelines** \
 Gojo Dating App is a platform where meaningful connections can flourish. We believe that every swipe has the potential to lead to exciting possibilities. Our goal is to create a fun, safe, and inclusive space where individuals can be themselves while getting to know others. These Community Guidelines are here to set expectations for everyone's behavior, ensuring a positive experience for all users on our app. Failure to adhere to these guidelines may result in consequences, ranging from warnings to account suspension.
 
+- [x]  **Zero Tolerance for Objectionable Content** \
+Gojo Dating App has a strict zero-tolerance policy against nudity, sexual content, hateful language, and any form of abusive or harmful behavior. Our platform is designed to be a safe space for individuals to connect and form meaningful relationships, and such content undermines this purpose. Please be cautious about the information and content you share on your profile. Posting fake or harmful content can lead to the permanent removal of your account from our platform.
+
+- [x]  **Content Moderation** \
+To enforce our policies, we employ a combination of advanced machine-learning algorithms and human oversight. Our moderation team works diligently to review reported content and take appropriate actions. If an account is found to violate our policies, we may take irreversible actions such as deactivation, deletion, pausing, or restricting the account. These decisions are final and are made to protect our community. In some scenarios, we provide users with means to appeal our decision. 
+
 - [x] **Respect Boundaries** \
 Respect Boundaries: Everyone's comfort levels vary, so we prohibit nudity, sexual content, and explicit sexual desires on public profiles. In private conversations, such content is allowed only if all parties consent. Consent is essential.
 
