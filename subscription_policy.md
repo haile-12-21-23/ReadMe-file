@@ -1,4 +1,4 @@
-## Privacy and Subscription Policy for Gojo Dating
+## Privacy and Subscription Policy for Gojo 
  - [x] Subscription Details
 
 Gojo has three subscriptions. These are Siliver, Gold and Platinum level. 
@@ -40,7 +40,7 @@ User Support:
 
  - [x]  Contact Information:
 
-Users can contact Gojo's support team for assistance by visiting our help center at https://gojodating.com/help. 
+Users can contact Gojo's support team for assistance by visiting our help center at https://gojo.com/help. 
 
  - [x]  Response Time:
 
