@@ -40,7 +40,7 @@ User Support:
 
  - [x]  Contact Information:
 
-Users can contact Gojo's support team for assistance by visiting our help center at https://gojo.com/help. 
+Users can contact Gojo's support team for assistance by visiting our help center at [https://gojo.com/help](https://gojo-matching-1d5c13e03266.herokuapp.com/help). 
 
  - [x]  Response Time:
 
